@@ -29,7 +29,8 @@ TRABALHO INTERDISCIPLINAR: APLICAÇÕES WEB - TECNOLOGIA EM ANÁLISE E DESENVOLV
 
 ### 3. Projeto de Interface (Fluxo do usuário, Wireframes das telas, Protótipo Interativo [LINK]) -> Erick Abraas
 
-- 
+- [Projeto de interface.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11204305/Projeto.de.interface.pdf)
+
 
 ### 4. Metodologia (Organização da equipe e divisão de papéis, Quadro de controle de tarefas - Kanban) -> Matheus Campos
 
