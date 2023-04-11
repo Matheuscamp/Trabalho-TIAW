@@ -23,7 +23,8 @@ TRABALHO INTERDISCIPLINAR: APLICAÇÕES WEB - TECNOLOGIA EM ANÁLISE E DESENVOLV
 
 ### 2. Especificação do Projeto (Histórias de usuários, requisitos do projeto) -> Savio Faluba
 
--
+- [Especificação do Projeto.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11204109/Especificacao.do.Projeto.pdf)
+
 
 
 ### 3. Projeto de Interface (Fluxo do usuário, Wireframes das telas, Protótipo Interativo [LINK]) -> Erick Abraas
