@@ -34,7 +34,8 @@ TRABALHO INTERDISCIPLINAR: APLICAÇÕES WEB - TECNOLOGIA EM ANÁLISE E DESENVOLV
 
 ### 4. Metodologia (Organização da equipe e divisão de papéis, Quadro de controle de tarefas - Kanban) -> Matheus Campos
 
-- [Metodologia Organização da equipe e divisão de papéis TIAW.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11202743/Metodologia.Organizacao.da.equipe.e.divisao.de.papeis.TIAW.pdf)
+- [Organização da equipe e divisão de papéis.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11204317/Organizacao.da.equipe.e.divisao.de.papeis.pdf)
+
 
 - [Quadro de controle de tarefas - Kanban.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11204043/Quadro.de.controle.de.tarefas.-.Kanban.pdf)
 
