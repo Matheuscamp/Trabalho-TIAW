@@ -22,12 +22,16 @@ TRABALHO INTERDISCIPLINAR: APLICAÇÕES WEB - TECNOLOGIA EM ANÁLISE E DESENVOLV
 [Contexto do projeto.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11202740/Contexto.do.projeto.pdf)
 
 ### 2. Especificação do Projeto (Histórias de usuários, requisitos do projeto) -> Savio Faluba
+
+[Especificação do Projeto.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11203916/Especificacao.do.Projeto.pdf)
+
+
 ### 3. Projeto de Interface (Fluxo do usuário, Wireframes das telas, Protótipo Interativo [LINK]) -> Erick Abraas
 ### 4. Metodologia (Organização da equipe e divisão de papéis, Quadro de controle de tarefas - Kanban) -> Matheus Campos
 
 [Metodologia Organização da equipe e divisão de papéis TIAW.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11202743/Metodologia.Organizacao.da.equipe.e.divisao.de.papeis.TIAW.pdf)
 
-## Sprint 1 - Repositório GitHub (ZIP)
+## Sprint 1 - Repositório GitHub (ZIP) -> Matheus Campos
 
 https://github.com/Matheuscamp/Trabalho-TIAW
 
