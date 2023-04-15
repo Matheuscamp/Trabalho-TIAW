@@ -3,6 +3,9 @@ TRABALHO INTERDISCIPLINAR: APLICAÇÕES WEB - TECNOLOGIA EM ANÁLISE E DESENVOLV
 
 ## Sprint 1 - Apresentação (PPT/PDF) -> Bruno Monteiro, Erick Faluba
 
+- [Trabalho Interdisciplinar - Resumido.pptx](https://github.com/Matheuscamp/Trabalho-TIAW/files/11240869/Trabalho.Interdisciplinar.-.Resumido.pptx)
+
+
 ## Sprint 1 - Processo de Design Thinking (PDF) -> Bruno Monteiro, Erick Faluba
 - [Mural de possibilidades.pdf](https://github.com/Matheuscamp/Trabalho-TIAW/files/11202647/Mural.de.possibilidades.pdf)
 
